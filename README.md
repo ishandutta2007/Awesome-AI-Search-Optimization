@@ -8,7 +8,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Search-Optimization?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-Search-Optimization/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Search-Optimization?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-Search-Optimization/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Search-Optimization?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-Search-Optimization/network/members)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
@@ -90,111 +90,111 @@ An exhaustive directory of open-source tools for building, evaluating, and runni
 
 ### 🌟 Top Open-Source Repositories (Ranked by Stars)
 
-Every repository below is **sorted by live GitHub star count in descending order** and features a social star badge directly linking to its stargazers page:
+Every repository below is **sorted by live GitHub Stars_Count in descending order** and features a social Stars_Badge directly linking to its stargazers page:
 
-1. **[Firecrawl (`mendableai/firecrawl`)](https://github.com/mendableai/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
+1. **[Firecrawl (`mendableai/firecrawl`)](https://github.com/mendableai/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
    *License: AGPL-3.0* • 🔥 High-performance web-to-Markdown crawling engine designed for LLM bots, JavaScript-rendered web auditing, and dynamic AI sitemaps.
 
-2. **[MarkItDown (`microsoft/markitdown`)](https://github.com/microsoft/markitdown)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social&color=white)](https://github.com/microsoft/markitdown/stargazers)  
+2. **[MarkItDown (`microsoft/markitdown`)](https://github.com/microsoft/markitdown)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social&color=white)](https://github.com/microsoft/markitdown/stargazers)  
    *License: MIT* • 📄 Microsoft's utility for converting complex enterprise documents (PDF, Word, Excel, PowerPoint) into clean Markdown for LLM ingestion.
 
-3. **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+3. **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
    *License: MIT* • 🤖 The pioneering autonomous agent framework for dissecting how multi-step reasoning agents gather, browse, and prioritize web sources.
 
-4. **[LangChain (`langchain-ai/langchain`)](https://github.com/langchain-ai/langchain)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
+4. **[LangChain (`langchain-ai/langchain`)](https://github.com/langchain-ai/langchain)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
    *License: MIT* • 🦜 Ecosystem framework providing standard document loaders, retrieval toolchains, and web agent search components.
 
-5. **[Browser-Use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+5. **[Browser-Use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
    *License: MIT* • 🌐 Make websites accessible for AI agents via automated browser interactions, ideal for auditing consumer search experiences across ChatGPT and Perplexity.
 
-6. **[Playwright (`microsoft/playwright`)](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+6. **[Playwright (`microsoft/playwright`)](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    *License: Apache-2.0* • 🎭 Fast and reliable cross-browser automation framework for programmatically verifying and screenshotting generative search results.
 
-7. **[Crawl4AI (`unclecode/crawl4ai`)](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
+7. **[Crawl4AI (`unclecode/crawl4ai`)](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
    *License: Apache-2.0* • 🕷️ High-speed, LLM-friendly web crawler that extracts clean Markdown, chunks pages, and audits target domain readiness for RAG pipelines.
 
-8. **[Docling (`DS4SD/docling`)](https://github.com/DS4SD/docling)** [![GitHub stars](https://img.shields.io/github/stars/DS4SD/docling?style=social&color=white)](https://github.com/DS4SD/docling/stargazers)  
+8. **[Docling (`DS4SD/docling`)](https://github.com/DS4SD/docling)** [![GitHub_Stars](https://img.shields.io/github/stars/DS4SD/docling?style=social&color=white)](https://github.com/DS4SD/docling/stargazers)  
    *License: MIT* • 📑 Advanced document parsing engine transforming complex PDFs and documents into structured Markdown and JSON for `llms-full.txt` files.
 
-9. **[AnythingLLM (`Mintplex-Labs/anything-llm`)](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
+9. **[AnythingLLM (`Mintplex-Labs/anything-llm`)](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
    *License: MIT* • 💼 Full-stack desktop and cloud RAG application for testing localized document retrieval, chunking policies, and answer citations.
 
-10. **[Scrapy (`scrapy/scrapy`)](https://github.com/scrapy/scrapy)** [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
+10. **[Scrapy (`scrapy/scrapy`)](https://github.com/scrapy/scrapy)** [![GitHub_Stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
     *License: BSD-3-Clause* • 🏗️ High-throughput Python web scraping framework frequently used to build custom SERP extraction and AI bot traffic crawlers.
 
-11. **[LlamaIndex (`run-llama/llama_index`)](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
+11. **[LlamaIndex (`run-llama/llama_index`)](https://github.com/run-llama/llama_index)** [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
     *License: MIT* • 🦙 Data framework for connecting custom data sources to LLMs, auditing RAG pipeline retrieval accuracy, and structuring search context.
 
-12. **[Milvus (`milvus-io/milvus`)](https://github.com/milvus-io/milvus)** [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)  
+12. **[Milvus (`milvus-io/milvus`)](https://github.com/milvus-io/milvus)** [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)  
     *License: Apache-2.0* • ⚡ Cloud-native vector database for high-scale embedding indexing, similarity search, and semantic retrieval benchmarking.
 
-13. **[Umami (`umami-software/umami`)](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
+13. **[Umami (`umami-software/umami`)](https://github.com/umami-software/umami)** [![GitHub_Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
     *License: MIT* • 📊 Privacy-focused web analytics platform easily configured to track incoming referral clicks from `chatgpt.com`, `perplexity.ai`, and `claude.ai`.
 
-14. **[SearXNG (`searxng/searxng`)](https://github.com/searxng/searxng)** [![GitHub stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers)  
+14. **[SearXNG (`searxng/searxng`)](https://github.com/searxng/searxng)** [![GitHub_Stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers)  
     *License: AGPL-3.0* • 🔎 Privacy-respecting metasearch engine aggregating 70+ search services with clean JSON API output, serving as the retrieval core for open AI engines.
 
-15. **[Perplexica (`ItzCrazyKns/Perplexica`)](https://github.com/ItzCrazyKns/Perplexica)** [![GitHub stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social&color=white)](https://github.com/ItzCrazyKns/Perplexica/stargazers)  
+15. **[Perplexica (`ItzCrazyKns/Perplexica`)](https://github.com/ItzCrazyKns/Perplexica)** [![GitHub_Stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social&color=white)](https://github.com/ItzCrazyKns/Perplexica/stargazers)  
     *License: MIT* • 🧠 Open-source self-hosted AI search engine powered by SearXNG and local LLMs; ideal for reverse-engineering answer engine citation weighting.
 
-16. **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+16. **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
     *License: MIT* • 🔭 Open-source LLM engineering platform to trace, monitor, and log model prompts, citation attribution stability, and answer latency.
 
-17. **[Qdrant (`qdrant/qdrant`)](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
+17. **[Qdrant (`qdrant/qdrant`)](https://github.com/qdrant/qdrant)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
     *License: Apache-2.0* • 📦 Vector similarity search engine and database with extended payload filtering for semantic AI document search.
 
-18. **[STORM (`stanford-oval/storm`)](https://github.com/stanford-oval/storm)** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)  
+18. **[STORM (`stanford-oval/storm`)](https://github.com/stanford-oval/storm)** [![GitHub_Stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)  
     *License: MIT* • ⛈️ Stanford’s research framework for synthesizing multi-perspective, citation-grounded long-form articles directly from internet search results.
 
-19. **[GPT-Researcher (`assafelovic/gpt-researcher`)](https://github.com/assafelovic/gpt-researcher)** [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
+19. **[GPT-Researcher (`assafelovic/gpt-researcher`)](https://github.com/assafelovic/gpt-researcher)** [![GitHub_Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
     *License: Apache-2.0* • 🔬 Autonomous research agent aggregating 20+ web sources per query to study automated multi-source citation synthesis.
 
-20. **[Chroma (`chroma-core/chroma`)](https://github.com/chroma-core/chroma)** [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)  
+20. **[Chroma (`chroma-core/chroma`)](https://github.com/chroma-core/chroma)** [![GitHub_Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)  
     *License: Apache-2.0* • 🎨 The open-source AI application database for embeddings, powering local retrieval validation pipelines.
 
-21. **[Promptfoo (`promptfoo/promptfoo`)](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+21. **[Promptfoo (`promptfoo/promptfoo`)](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
     *License: MIT* • 🧪 Test-driven evaluation CLI and harness used by SEO teams to run repeatable prompt matrices across ChatGPT, Perplexity, Claude, and Gemini to track brand mentions.
 
-22. **[Letta (`letta-ai/letta`)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
+22. **[Letta (`letta-ai/letta`)](https://github.com/letta-ai/letta)** [![GitHub_Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
     *License: Apache-2.0* • 💾 Stateful LLM memory and agent platform (formerly MemGPT) useful for studying how conversational search bots retain brand context.
 
-23. **[Matomo (`matomo-org/matomo`)](https://github.com/matomo-org/matomo)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
+23. **[Matomo (`matomo-org/matomo`)](https://github.com/matomo-org/matomo)** [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
     *License: GPL-3.0* • 📈 Leading open-source web analytics engine customizable with server-log rules to audit AI crawler hits and referral traffic.
 
-24. **[DeepEval (`confident-ai/deepeval`)](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+24. **[DeepEval (`confident-ai/deepeval`)](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
     *License: Apache-2.0* • 📏 Unit-testing framework for LLMs used in GEO pipelines to evaluate hallucination rates, source faithfulness, and brand citation accuracy.
 
-25. **[Weaviate (`weaviate/weaviate`)](https://github.com/weaviate/weaviate)** [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)  
+25. **[Weaviate (`weaviate/weaviate`)](https://github.com/weaviate/weaviate)** [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)  
     *License: BSD-3-Clause* • 🌲 Open-source vector database supporting hybrid keyword/dense search for simulating modern answer engine retrieval.
 
-26. **[Ragas (`explodinggradients/ragas`)](https://github.com/explodinggradients/ragas)** [![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
+26. **[Ragas (`explodinggradients/ragas`)](https://github.com/explodinggradients/ragas)** [![GitHub_Stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
     *License: Apache-2.0* • 📐 Evaluation framework measuring context precision, context recall, and citation faithfulness in search-augmented generation.
 
-27. **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+27. **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
     *License: ELv2* • 🦅 AI observability platform for tracing evaluations, embedding drift, and retrieval quality in enterprise RAG systems.
 
-28. **[AIOS (`agiresearch/AIOS`)](https://github.com/agiresearch/AIOS)** [![GitHub stars](https://img.shields.io/github/stars/agiresearch/AIOS?style=social&color=white)](https://github.com/agiresearch/AIOS/stargazers)  
+28. **[AIOS (`agiresearch/AIOS`)](https://github.com/agiresearch/AIOS)** [![GitHub_Stars](https://img.shields.io/github/stars/agiresearch/AIOS?style=social&color=white)](https://github.com/agiresearch/AIOS/stargazers)  
     *License: MIT* • 🖥️ LLM agent operating system for scheduling, resource allocation, and multi-agent web retrieval execution.
 
-29. **[Schema.org Vocabularies (`schemaorg/schemaorg`)](https://github.com/schemaorg/schemaorg)** [![GitHub stars](https://img.shields.io/github/stars/schemaorg/schemaorg?style=social&color=white)](https://github.com/schemaorg/schemaorg/stargazers)  
+29. **[Schema.org Vocabularies (`schemaorg/schemaorg`)](https://github.com/schemaorg/schemaorg)** [![GitHub_Stars](https://img.shields.io/github/stars/schemaorg/schemaorg?style=social&color=white)](https://github.com/schemaorg/schemaorg/stargazers)  
     *License: W3C* • 🏷️ Structured data definitions (`JSON-LD`, `Microdata`) essential for knowledge-graph disambiguation, entity clarity, and AI engine fact-checking.
 
-30. **[AgentOps (`AgentOps-AI/AgentOps`)](https://github.com/AgentOps-AI/AgentOps)** [![GitHub stars](https://img.shields.io/github/stars/AgentOps-AI/AgentOps?style=social&color=white)](https://github.com/AgentOps-AI/AgentOps/stargazers)  
+30. **[AgentOps (`AgentOps-AI/AgentOps`)](https://github.com/AgentOps-AI/AgentOps)** [![GitHub_Stars](https://img.shields.io/github/stars/AgentOps-AI/AgentOps?style=social&color=white)](https://github.com/AgentOps-AI/AgentOps/stargazers)  
     *License: MIT* • 🕵️ Observability and compliance framework for AI agents, monitoring tool execution and web browsing traces.
 
-31. **[`llms.txt` Spec & CLI (`AnswerDotAI/llms-txt`)](https://github.com/AnswerDotAI/llms-txt)** [![GitHub stars](https://img.shields.io/github/stars/AnswerDotAI/llms-txt?style=social&color=white)](https://github.com/AnswerDotAI/llms-txt/stargazers)  
+31. **[`llms.txt` Spec & CLI (`AnswerDotAI/llms-txt`)](https://github.com/AnswerDotAI/llms-txt)** [![GitHub_Stars](https://img.shields.io/github/stars/AnswerDotAI/llms-txt?style=social&color=white)](https://github.com/AnswerDotAI/llms-txt/stargazers)  
     *License: Apache-2.0* • 📋 The original standard and Python CLI from Answer.AI defining `/llms.txt` and `/llms-full.txt` files for AI search crawler ingestion.
 
-32. **[SerpBear (`towfiqi/serpbear`)](https://github.com/towfiqi/serpbear)** [![GitHub stars](https://img.shields.io/github/stars/towfiqi/serpbear?style=social&color=white)](https://github.com/towfiqi/serpbear/stargazers)  
+32. **[SerpBear (`towfiqi/serpbear`)](https://github.com/towfiqi/serpbear)** [![GitHub_Stars](https://img.shields.io/github/stars/towfiqi/serpbear?style=social&color=white)](https://github.com/towfiqi/serpbear/stargazers)  
     *License: MIT* • 🐻 Self-hosted search engine rank tracker built with Next.js, allowing correlation between traditional SERPs and AI citation frequency.
 
-33. **[SiteOne Crawler (`janreges/siteone-crawler`)](https://github.com/janreges/siteone-crawler)** [![GitHub stars](https://img.shields.io/github/stars/janreges/siteone-crawler?style=social&color=white)](https://github.com/janreges/siteone-crawler/stargazers)  
+33. **[SiteOne Crawler (`janreges/siteone-crawler`)](https://github.com/janreges/siteone-crawler)** [![GitHub_Stars](https://img.shields.io/github/stars/janreges/siteone-crawler?style=social&color=white)](https://github.com/janreges/siteone-crawler/stargazers)  
     *License: MIT* • ⚡ Fast open-source crawler for auditing internal link architecture and AI bot rules (`GPTBot`, `PerplexityBot`, `ClaudeBot`).
 
-34. **[llmstxt-generator (`mendableai/llmstxt-generator`)](https://github.com/mendableai/llmstxt-generator)** [![GitHub stars](https://img.shields.io/github/stars/mendableai/llmstxt-generator?style=social&color=white)](https://github.com/mendableai/llmstxt-generator/stargazers)  
+34. **[llmstxt-generator (`mendableai/llmstxt-generator`)](https://github.com/mendableai/llmstxt-generator)** [![GitHub_Stars](https://img.shields.io/github/stars/mendableai/llmstxt-generator?style=social&color=white)](https://github.com/mendableai/llmstxt-generator/stargazers)  
     *License: MIT* • ⚙️ Automated crawler and generator built on Firecrawl to map any domain and generate validated `llms.txt` and `llms-full.txt` bundles.
 
-35. **[vitepress-plugin-llms (`okineadev/vitepress-plugin-llms`)](https://github.com/okineadev/vitepress-plugin-llms)** [![GitHub stars](https://img.shields.io/github/stars/okineadev/vitepress-plugin-llms?style=social&color=white)](https://github.com/okineadev/vitepress-plugin-llms/stargazers)  
+35. **[vitepress-plugin-llms (`okineadev/vitepress-plugin-llms`)](https://github.com/okineadev/vitepress-plugin-llms)** [![GitHub_Stars](https://img.shields.io/github/stars/okineadev/vitepress-plugin-llms?style=social&color=white)](https://github.com/okineadev/vitepress-plugin-llms/stargazers)  
     *License: MIT* • 📦 Build-time documentation plugin automatically compiling LLM-friendly Markdown bundles and `llms.txt` indexes for VitePress documentation.
 
 ---
